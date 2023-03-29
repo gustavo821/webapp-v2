@@ -144,7 +144,7 @@ export default function Menu() {
               <span>Code</span>
             </div>
           </MenuItem>
-          <MenuItem href="https://discord.gg/vpbTxzHWYg">
+          <MenuItem href="https://discord.gg/vpbTxzHWYgd">
             <MessageCircle size={14} />
             <div>
               <span>Discord</span>
